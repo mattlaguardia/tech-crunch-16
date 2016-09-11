@@ -6,6 +6,9 @@ This app's primary use is for amazon's alexa / echo. Our fridge bot (powered by 
 
 Because, this bot / app was built with alexa, the primary use is for the amazon echo, so you will need to have a connected device in order to use our apps functionality.
 
+Original GitHub with Team Contributors can be found here:
+https://github.com/nmauskar/DisruptHack2016
+
 Planning:
 
 ![image](images/Screen Shot 2016-09-11 at 12.09.51 PM.png)
